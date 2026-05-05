@@ -8,17 +8,34 @@
   </a>
 </p>
 
-<!-- Aapki nayi desk wali image yahan aayegi -->
+<!-- Aapki nayi desk wali image yahan aayegi. Ensure the image is uploaded in your repo as 'profile-desk.png' -->
 <p align="center">
-  <img src="myimg.png" width="600" alt="Suyog at Desk - Cloud Architect">
+  <img src="profile-desk.png" width="600" alt="Suyog at Desk - Cloud Architect">
 </p>
 
-### 🏆 Certifications & Expertise
+### 🏆 Certifications & Achievements
+
+<!-- Replace "YOUR_CERT_URL_HERE" with your actual Credly/Verification links -->
 <p align="left">
-  <!-- Replace with your actual certification links if you have Credly URLs -->
-  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified"/>
-  <img src="https://img.shields.io/badge/Expertise-Kubernetes_(K8s)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s Expert"/>
-  <img src="https://img.shields.io/badge/Certified-Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow Certified"/>
+  <b>☁️ AWS Certifications:</b><br>
+  <a href="YOUR_AWS_SAA_URL_HERE"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/></a>
+  <a href="YOUR_AWS_CCP_URL_HERE"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/></a>
+  <a href="YOUR_AWS_AGENTIC_AI_URL_HERE"><img src="https://img.shields.io/badge/AWS_Knowledge-Agentic_AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Agentic AI"/></a>
+  <a href="YOUR_AWS_SERVERLESS_URL_HERE"><img src="https://img.shields.io/badge/AWS_Knowledge-Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Serverless"/></a>
+</p>
+
+<p align="left">
+  <b>☁️ Azure Certifications:</b><br>
+  <a href="YOUR_AZ900_URL_HERE"><img src="https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AZ-900"/></a>
+  <a href="YOUR_DP900_URL_HERE"><img src="https://img.shields.io/badge/Azure-Data_Fundamentals_(DP--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure DP-900"/></a>
+  <a href="YOUR_AI900_URL_HERE"><img src="https://img.shields.io/badge/Azure-AI_Fundamentals_(AI--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI-900"/></a>
+</p>
+
+<p align="left">
+  <b>💨 Airflow & Programming:</b><br>
+  <a href="YOUR_AIRFLOW_FUNDA_URL_HERE"><img src="https://img.shields.io/badge/Astronomer-Airflow_Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow Fundamentals"/></a>
+  <a href="YOUR_AIRFLOW_DAG_URL_HERE"><img src="https://img.shields.io/badge/Astronomer-Airflow_DAG_Authoring-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow DAG"/></a>
+  <a href="YOUR_HACKERRANK_URL_HERE"><img src="https://img.shields.io/badge/HackerRank-5--Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 5 Star"/></a>
 </p>
 
 ---
