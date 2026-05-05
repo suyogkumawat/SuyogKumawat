@@ -88,12 +88,17 @@
 
 ### 🤝 Let's Connect & Collaborate
 
-I'm always open to discussing cloud architecture, DevOps best practices, or potential consulting opportunities.
+I'm always open to discussing cloud architecture, DevOps best practices, or potential consulting opportunities. You can also book a 1:1 mentorship call with me!
 
 <p align="left">
+  <!-- Professional Social Links -->
   <a href="https://www.linkedin.com/in/suyogkumawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://twitter.com/kumawat_suyog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-  <a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
+  
+  <!-- Mentorship & Consulting Links -->
+  <a href="YOUR_TOPMATE_URL_HERE" target="_blank"><img alt="Topmate" src="https://img.shields.io/badge/Topmate-Book_a_Call-%23ff5e5e?style=for-the-badge" /></a>&nbsp;
+  <a href="YOUR_UNSTOP_URL_HERE" target="_blank"><img alt="Unstop" src="https://img.shields.io/badge/Unstop-Mentorship-%230066FF?style=for-the-badge" /></a>
 </p>
 
 <br>
