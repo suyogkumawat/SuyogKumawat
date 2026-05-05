@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<!-- MacBook Desk Developer Animation (Aap isko apni downloaded MacBook image se replace kar sakte ho) -->
+<!-- Desk & MacBook Image -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="DevOps Engineer with MacBook">
+  <img src="myimg.png" width="600" alt="Suyog at Desk - Cloud Architect">
 </p>
 
 ### 👨‍💻 Professional Experience & Portfolio
@@ -18,7 +18,7 @@
 - 🏢 **Enterprise Cloud Infrastructure:** Architecting, securing, and scaling highly available environments across **AWS, Azure, and GCP** for global enterprise clients (including top-tier pharma giants like Lilly, Pfizer, and Astellas).
 - 🤖 **GenAI & LLMOps:** Securing Generative AI applications using **AWS Bedrock** via VPC endpoints, **Azure OpenAI**, and deploying self-hosted **Langfuse** (PostgreSQL/ClickHouse) on AWS EC2 via Docker Compose for inference monitoring.
 - 🚀 **Advanced CI/CD & Automation:** Building secure, multi-stage pipelines using **GitHub Actions**, **Azure DevOps**, and **Terraform**. Implemented **GitHub OIDC** integration with AWS to completely eliminate static credentials in pipelines.
-- ⚙️ **Containerization & Compute:** Architected and deployed multi-stage frontend and backend stacks ("Pipeline Analytics") on **AWS ECS** and expertly managed complex **Kubernetes** clusters.
+- ⚙️ **Containerization & Compute:** Architected and deployed multi-stage frontend and backend stacks on **AWS ECS** and expertly managed complex **Kubernetes** clusters.
 - 🌐 **Networking & Security:** Configured enterprise-grade **Azure Front Door** setups with Private Endpoints to secure internal App Services and Static Web Apps.
 - 📊 **Observability & Analytics:** Routing application logs to **Splunk** for comprehensive user analytics, and building robust **Grafana** dashboards for Kubernetes metrics and APM.
 - 🛠️ **Database Ops:** Developed custom Node.js and Docker-based scripts for seamless, cross-table **DynamoDB** migrations.
@@ -30,8 +30,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- Unbreakable grid with all your modern stack icons -->
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions,jenkins,prometheus,grafana,splunk,python,nodejs,postgres,vscode,git&perline=9" alt="Suyog's Tech Stack" />
+    <!-- Unbreakable grid with expanded enterprise tools -->
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions,jenkins,gitlab,prometheus,grafana,ansible,python,nodejs,postgres,mysql,redis,bash,go,vscode,git&perline=11" alt="Suyog's Tech Stack" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 ### 📶 GitHub Stats
 
 <p align="left">
-  <!-- Reliable Streak Stats API that won't give a 503 error -->
+  <!-- Reliable Streak Stats API -->
   <a href="https://github.com/suyogkumawat">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyogkumawat&theme=dracula&hide_border=true&border_radius=5" alt="Suyog's GitHub Stats" />
   </a>
