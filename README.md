@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks 👋 I'm Suyog Kumawat</h1>
-<h3 align="center">Cloud Architect | DevOps & SRE Engineer | GenAI Integrations</h3>
+<h3 align="center">DevOps Consultant | Kubernetes Expert | Agentic AI & MLOps </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suyogkumawat&color=blue&style=flat" alt="profile count" />
@@ -98,6 +98,11 @@
 <!-- BLOG-POST-LIST:START -->
 - [AWS Solution Architect Associate Guide](https://guideclouddevops.medium.com/ultimate-guide-crack-the-aws-certified-solutions-architect-associate-exam-in-2025-78fb1a4bf19b)
 - [Airflow Best Practices 2024](https://guideclouddevops.medium.com/airflow-best-practices-2024-e1a000375ea0)
+- [Amazon Bedrock: The AI Foundation That’s Powering NatWest Bank’s Digital Transformation](https://blog.devops.dev/amazon-bedrock-the-ai-foundation-thats-powering-natwest-bank-s-digital-transformation-8b0dd5f40d4a)
+- [Understanding Amazon ECS: Newcomer’s Guide](https://blog.devops.dev/understanding-amazon-ecs-newcomers-guide-cee18933a844)
+- [EKS Auto Mode — New Feature AWS](https://guideclouddevops.medium.com/eks-auto-mode-new-feature-aws-0603a8c78797)
+- [YAML and Industry Based Scenarios](https://guideclouddevops.medium.com/yaml-and-industry-based-scenarios-67e63249b245)
+- [Provisioning and Managing AWS EC2 Instances| Terraform-Desired/Current State](https://guideclouddevops.medium.com/provisioning-and-managing-aws-ec2-instances-terraform-desired-current-state-5ae923f9351b)
 - [Industry Use cases of Neural Networks](https://suyogkumawat1999.medium.com/industry-use-cases-of-neural-networks-d0c73973716b)
 - [Integrating LVM with Hadoop ](https://suyogkumawat1999.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-and-increase-or-decrease-e2363aaad016)
 - [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
