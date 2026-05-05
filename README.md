@@ -1,21 +1,26 @@
 <h1 align="center">Hi Folks 👋 I'm Suyog Kumawat</h1>
-<h3 align="center">DevOps Consultant | Kubernetes Expert | Agentic AI & MLOps </h3>
+<h3 align="center">DevOps Consultant | Kubernetes Expert | Agentic AI & MLOps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suyogkumawat&color=blue&style=flat" alt="profile count" />
+  <img src="https://komarev.com/ghpvc/?username=suyogkumawat&color=blue&style=flat" alt="Profile Views" />
   <a href="https://github.com/suyogkumawat">
     <img src="https://img.shields.io/github/followers/suyogkumawat?label=Follow&style=social" alt="GitHub Follow" />
   </a>
 </p>
 
-<!-- Aapki nayi desk wali image yahan aayegi. Ensure the image is uploaded in your repo as 'profile-desk.png' -->
 <p align="center">
   <img src="myimg.png" width="600" alt="Suyog at Desk - Cloud Architect">
 </p>
 
+<p align="center">
+  <b>Architecting secure, scalable cloud infrastructure and driving AI/ML integrations for enterprise environments.</b><br>
+  Passionate about Infrastructure as Code, advanced CI/CD automation, and cloud-native observability.
+</p>
+
+---
+
 ### 🏆 Certifications & Achievements
 
-<!-- Replace "YOUR_CERT_URL_HERE" with your actual Credly/Verification links -->
 <p align="left">
   <b>☁️ AWS Certifications:</b><br>
   <a href="https://www.credly.com/badges/0b3a6677-9221-463f-ad79-d314f213322f/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/></a>
@@ -63,7 +68,7 @@
 
 ### 💻 My Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions,jenkins,gitlab,prometheus,grafana,ansible,python,nodejs,postgres,mysql,redis,bash,go,vscode,git&perline=11" alt="Suyog's Tech Stack" />
   </a>
@@ -73,7 +78,7 @@
 
 ### 📶 GitHub Stats & Activity
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/suyogkumawat">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyogkumawat&theme=dracula&hide_border=true&border_radius=5" alt="Suyog's GitHub Stats" />
   </a>
@@ -81,7 +86,9 @@
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect & Collaborate
+
+I'm always open to discussing cloud architecture, DevOps best practices, or potential consulting opportunities.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/suyogkumawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -92,23 +99,16 @@
 <br>
 
 <details>
-<summary><b>📕 Click here to see my Latest Blog Posts</b></summary>
+<summary><b>📕 Click here to read my Featured Tech Blogs</b></summary>
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Solution Architect Associate Guide](https://guideclouddevops.medium.com/ultimate-guide-crack-the-aws-certified-solutions-architect-associate-exam-in-2025-78fb1a4bf19b)
-- [Airflow Best Practices 2024](https://guideclouddevops.medium.com/airflow-best-practices-2024-e1a000375ea0)
 - [Amazon Bedrock: The AI Foundation That’s Powering NatWest Bank’s Digital Transformation](https://blog.devops.dev/amazon-bedrock-the-ai-foundation-thats-powering-natwest-bank-s-digital-transformation-8b0dd5f40d4a)
 - [Understanding Amazon ECS: Newcomer’s Guide](https://blog.devops.dev/understanding-amazon-ecs-newcomers-guide-cee18933a844)
 - [EKS Auto Mode — New Feature AWS](https://guideclouddevops.medium.com/eks-auto-mode-new-feature-aws-0603a8c78797)
-- [YAML and Industry Based Scenarios](https://guideclouddevops.medium.com/yaml-and-industry-based-scenarios-67e63249b245)
-- [Provisioning and Managing AWS EC2 Instances| Terraform-Desired/Current State](https://guideclouddevops.medium.com/provisioning-and-managing-aws-ec2-instances-terraform-desired-current-state-5ae923f9351b)
-- [Industry Use cases of Neural Networks](https://suyogkumawat1999.medium.com/industry-use-cases-of-neural-networks-d0c73973716b)
-- [Integrating LVM with Hadoop ](https://suyogkumawat1999.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-and-increase-or-decrease-e2363aaad016)
-- [Ping Google But Not able to ping Facebook from same System](https://suyogkumawat1999.medium.com/ping-google-but-not-able-to-ping-facebook-from-same-system-6c12ed79dc76)
-- [Kubernetes and its Use case: AppDirect](https://suyogkumawat1999.medium.com/kubernetes-and-its-use-case-appdirect-62e7c6cd37c7)
-- [High Availability Architecture with AWS CLI](https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-suyog-kumawat/)
+- [Provisioning and Managing AWS EC2 Instances | Terraform](https://guideclouddevops.medium.com/provisioning-and-managing-aws-ec2-instances-terraform-desired-current-state-5ae923f9351b)
+- [Airflow Best Practices 2024](https://guideclouddevops.medium.com/airflow-best-practices-2024-e1a000375ea0)
   
-➡️ [more blog posts...](https://knowledgepython3.blogspot.com/)
+➡️ [Read all my articles here...](https://suyogkumawat1999.medium.com/)
 <!-- BLOG-POST-LIST:END -->
 </details>
