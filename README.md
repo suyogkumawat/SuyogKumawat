@@ -1,13 +1,14 @@
 <h1 align="center">Hi Folks 👋 Nice connecting on Github</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue&style=flat" alt="profile count" />
-  <a href="https://github.com/SuyogKumawat">
-    <img src="https://img.shields.io/github/followers/SuyogKumawat?label=Follow&style=social" alt="GitHub Follow" />
+  <img src="https://komarev.com/ghpvc/?username=suyogkumawat&color=blue&style=flat" alt="profile count" />
+  <a href="https://github.com/suyogkumawat">
+    <img src="https://img.shields.io/github/followers/suyogkumawat?label=Follow&style=social" alt="GitHub Follow" />
   </a>
 </p>
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi GIF">
+<!-- Yahan aap apni generate ki hui image ka link daal sakte hain. Abhi maine ek cool coding GIF lagaya hai. -->
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="DevOps Engineer Coding">
 
 ### 🔭 About Me
 
@@ -25,7 +26,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- Clean, unbreakable icon grid using skillicons.dev -->
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions,jenkins,prometheus,grafana,python,html,css,vscode,git,cpp&perline=8" alt="Suyog's Tech Stack" />
   </a>
 </p>
@@ -34,8 +34,11 @@
 
 ### 📶 Stats
 
+<!-- Standard Markdown format for better compatibility. -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyogKumawat&show_icons=true&theme=dracula&hide_border=true" alt="SuyogKumawat's github stats" />
+  <a href="https://github.com/suyogkumawat">
+    <img src="https://github-readme-stats.vercel.app/api?username=suyogkumawat&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Suyog's GitHub Stats" />
+  </a>
 </p>
 
 <br>
@@ -43,7 +46,7 @@
 ### 🤝 Where to find me
 
 <p align="left">
-  <a href="https://github.com/SuyogKumawat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/suyogkumawat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
   <a href="https://twitter.com/kumawat_suyog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/suyogkumawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
