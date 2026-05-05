@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Professional Experience & Portfolio
 
-- 🏢 **Enterprise Cloud Infrastructure:** Architecting, securing, and scaling highly available environments across **AWS, Azure, and GCP** for global enterprise clients (including top-tier pharma giants like Lilly, Pfizer, and Astellas).
+- 🏢 **Enterprise Cloud Infrastructure:** Architecting, securing, and scaling highly available environments across **AWS, Azure, and GCP** for global enterprise clients.
 - 🤖 **GenAI & LLMOps:** Securing Generative AI applications using **AWS Bedrock** via VPC endpoints, **Azure OpenAI**, and deploying self-hosted **Langfuse** (PostgreSQL/ClickHouse) on AWS EC2 via Docker Compose for inference monitoring.
 - 🚀 **Advanced CI/CD & Automation:** Building secure, multi-stage pipelines using **GitHub Actions**, **Azure DevOps**, and **Terraform**. Implemented **GitHub OIDC** integration with AWS to completely eliminate static credentials in pipelines.
 - ⚙️ **Containerization & Compute:** Architected and deployed multi-stage frontend and backend stacks on **AWS ECS** and expertly managed complex **Kubernetes** clusters.
@@ -31,7 +31,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <!-- Unbreakable grid with expanded enterprise tools -->
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions,jenkins,gitlab,prometheus,grafana,ansible,python,nodejs,postgres,mysql,redis,bash,go,vscode,git&perline=11" alt="Suyog's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions,jenkins,gitlab,prometheus,grafana,ansible,python,postgres,mysql,redis,bash,vscode,git&perline=11" alt="Suyog's Tech Stack" />
   </a>
 </p>
 
