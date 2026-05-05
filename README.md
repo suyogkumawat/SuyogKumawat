@@ -1,66 +1,57 @@
-## <h1 align='center'> Hi Folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">Nice connecting on Github</h1>
+<h1 align="center">Hi Folks 👋 Nice connecting on Github</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue&style=flat" alt="profile count" />
+  <a href="https://github.com/SuyogKumawat">
+    <img src="https://img.shields.io/github/followers/SuyogKumawat?label=Follow&style=social" alt="GitHub Follow" />
+  </a>
+</p>
 
-![version :19.07.2021](https://img.shields.io/badge/version-21.01.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=SuyogKumawat&color=blue)&nbsp;
-[![GitHub Suyog Kumawat](https://img.shields.io/github/followers/SuyogKumawat?label=Follow&style=classic)](https://github.com/SuyogKumawat)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+<img align="right" width="250" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi GIF">
 
+### 🔭 About Me
 
-<img align="right" width="400" margin-top="500" src="https://fuertedevelopers.com/assets/img/aboutus.gif">
+- ☁️ **Cloud Architecture:** Extensive experience architecting and managing scalable enterprise environments across **AWS, Azure, and GCP**.
+- 🚀 **Automation & CI/CD:** Passionate about Infrastructure-as-Code (Terraform) and building robust pipelines (GitHub Actions, Azure DevOps, Argo CD, Flux CD).
+- 🤖 **GenAI Integration:** Actively securing and deploying Generative AI and LLM applications using AWS Bedrock and Azure OpenAI.
+- 📊 **Observability & APM:** Focused on system reliability and monitoring using Prometheus, Grafana, Splunk, and Langfuse.
+- 🌐 **App Deployments:** Expertise in enterprise-grade setups using Azure App Service and containerized orchestration (Docker, Kubernetes/EKS).
+- 🥅 **2026 Goals:** Mastering bug bounty hunting for cloud architectures and CI/CD pipelines.
+- ⚡ **Fun fact:** I love to travel and read self-help books in my free time.
 
+<br>
 
+### 💻 My Tech Stack
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <!-- Clean, unbreakable icon grid using skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions,jenkins,prometheus,grafana,python,html,css,vscode,git,cpp&perline=8" alt="Suyog's Tech Stack" />
+  </a>
+</p>
 
-- 🔭 I’m currently working in to create **Automation Scripts** for deployments.
+<br>
 
-- 🌱 I’m currently working in new projects based on **Terrform, AWS, Kubernetes, Docker, Jenkins, ARGO CD, FLUX CD, Linux, Airflow, Prometheus, Grafana and Github Actions**.
+### 📶 Stats
 
-- 👯 Recently working as Cloud DevOps Enginner and build some cool projects using integration of different technologies **AWS EKS**,**Github Actions**, **Prometheus**, **Helm Charts**, **Flux and Argo CD**,**Airflow**, **Prometheus and Grafana**, and programming language used was **Python**.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyogKumawat&show_icons=true&theme=dracula&hide_border=true" alt="SuyogKumawat's github stats" />
+</p>
 
-- 🥅 2025 Goals: Contribute more to **Open Source projects**.
+<br>
 
-- ⚡ Fun fact: I Love to **Travel** and **Self Help books** in my free time.
+### 🤝 Where to find me
 
+<p align="left">
+  <a href="https://github.com/SuyogKumawat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
+  <a href="https://twitter.com/kumawat_suyog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/suyogkumawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
+<br>
 
-
-
-## 💻𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="sckit" width="40" height="40"/> </a> 
-<a href="https://docs.aws.amazon.com/index.html?nc2=h_ql_doc"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> </a>
-<a href="https://www.ansible.com/"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
-<a href="https://www.jenkins.io/"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/> 
-<a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>
-<a href="https://kubernetes.io/"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/></p>
-
-
-
-
-## 📶𝗦𝘁𝗮𝘁𝘀
-
-![suyogkumawat's github stats](https://github-readme-stats.vercel.app/api?username=SuyogKumawat&show_icons=true&theme=dracula)
-
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 𝐖𝐡𝐞𝐫𝐞 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐦𝐞
-<p><a href="https://github.com/SuyogKumawat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://twitter.com/kumawat_suyog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/suyogkumawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://clouddevaws.blogspot.com/"> <img alt="Github" src="https://www.blogger.com/img/logo_blogger_40px_2x.png?&style=for-the-badge&logo=Github&logoColor=white" </a></p>
-
-
-
-
-
-## 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [AWS Solution Architect Associate Guide](https://guideclouddevops.medium.com/ultimate-guide-crack-the-aws-certified-solutions-architect-associate-exam-in-2025-78fb1a4bf19b)
@@ -74,14 +65,4 @@
 - [High Availability Architecture with AWS CLI](https://www.linkedin.com/pulse/high-availability-architecture-aws-cli-suyog-kumawat/)
   
 ➡️ [more blog posts...](https://knowledgepython3.blogspot.com/)
-
 <!-- BLOG-POST-LIST:END -->
-
-
----
-
-[Medium]: https://medium.com/@guideclouddevops
-[twitter]: https://twitter.com/kumawat_suyog
-[linkedin]:https://www.linkedin.com/in/suyogkumawat/
-[DEV]:https://dev.to/suyogkumawat
-
