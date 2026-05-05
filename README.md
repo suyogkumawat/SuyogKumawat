@@ -10,7 +10,7 @@
 
 <!-- Aapki nayi desk wali image yahan aayegi. Ensure the image is uploaded in your repo as 'profile-desk.png' -->
 <p align="center">
-  <img src="profile-desk.png" width="600" alt="Suyog at Desk - Cloud Architect">
+  <img src="myimg.png" width="600" alt="Suyog at Desk - Cloud Architect">
 </p>
 
 ### 🏆 Certifications & Achievements
@@ -18,24 +18,24 @@
 <!-- Replace "YOUR_CERT_URL_HERE" with your actual Credly/Verification links -->
 <p align="left">
   <b>☁️ AWS Certifications:</b><br>
-  <a href="YOUR_AWS_SAA_URL_HERE"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/></a>
-  <a href="YOUR_AWS_CCP_URL_HERE"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/></a>
-  <a href="YOUR_AWS_AGENTIC_AI_URL_HERE"><img src="https://img.shields.io/badge/AWS_Knowledge-Agentic_AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Agentic AI"/></a>
-  <a href="YOUR_AWS_SERVERLESS_URL_HERE"><img src="https://img.shields.io/badge/AWS_Knowledge-Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Serverless"/></a>
+  <a href="https://www.credly.com/badges/0b3a6677-9221-463f-ad79-d314f213322f/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA"/></a>
+  <a href="https://www.credly.com/badges/4e9dc768-47c7-4ae9-a0cb-593f03d7e44c/public_url"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CCP"/></a>
+  <a href="https://www.credly.com/badges/63b28c08-91fe-42eb-86a1-e6cb07c2fdce/public_url"><img src="https://img.shields.io/badge/AWS_Knowledge-Agentic_AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Agentic AI"/></a>
+  <a href="https://www.credly.com/badges/d1fc02e4-fc76-4d46-abf0-952161a3f8e5"><img src="https://img.shields.io/badge/AWS_Knowledge-Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Serverless"/></a>
 </p>
 
 <p align="left">
   <b>☁️ Azure Certifications:</b><br>
-  <a href="YOUR_AZ900_URL_HERE"><img src="https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AZ-900"/></a>
-  <a href="YOUR_DP900_URL_HERE"><img src="https://img.shields.io/badge/Azure-Data_Fundamentals_(DP--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure DP-900"/></a>
-  <a href="YOUR_AI900_URL_HERE"><img src="https://img.shields.io/badge/Azure-AI_Fundamentals_(AI--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI-900"/></a>
+  <a href="https://www.credly.com/badges/5599678d-e188-4334-b893-004fde8e7420/public_url"><img src="https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AZ-900"/></a>
+  <a href="https://www.credly.com/badges/8f26fc46-9038-466b-a08f-e80e7aea4b62/public_url"><img src="https://img.shields.io/badge/Azure-Data_Fundamentals_(DP--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure DP-900"/></a>
+  <a href="https://www.credly.com/badges/8fdd2e77-bc06-40f5-99c8-77db163251b8"><img src="https://img.shields.io/badge/Azure-AI_Fundamentals_(AI--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI-900"/></a>
 </p>
 
 <p align="left">
   <b>💨 Airflow & Programming:</b><br>
-  <a href="YOUR_AIRFLOW_FUNDA_URL_HERE"><img src="https://img.shields.io/badge/Astronomer-Airflow_Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow Fundamentals"/></a>
-  <a href="YOUR_AIRFLOW_DAG_URL_HERE"><img src="https://img.shields.io/badge/Astronomer-Airflow_DAG_Authoring-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow DAG"/></a>
-  <a href="YOUR_HACKERRANK_URL_HERE"><img src="https://img.shields.io/badge/HackerRank-5--Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 5 Star"/></a>
+  <a href="https://www.credly.com/badges/fb3718d1-fb76-4c0b-a854-25421d18cecb/public_url"><img src="https://img.shields.io/badge/Astronomer-Airflow_Fundamentals-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow Fundamentals"/></a>
+  <a href="https://www.credly.com/badges/a72c6e61-58c2-44f4-ab10-e910b21aac77"><img src="https://img.shields.io/badge/Astronomer-Airflow_DAG_Authoring-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow DAG"/></a>
+  <a href="https://www.hackerrank.com/certificates/611a0b7d20fc"><img src="https://img.shields.io/badge/HackerRank-5--Star_Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank 5 Star"/></a>
 </p>
 
 ---
