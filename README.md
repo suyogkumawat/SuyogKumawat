@@ -97,8 +97,8 @@ I'm always open to discussing cloud architecture, DevOps best practices, or pote
   <a href="https://suyogkumawat1999.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
   
   <!-- Mentorship & Consulting Links -->
-  <a href="YOUR_TOPMATE_URL_HERE" target="_blank"><img alt="Topmate" src="https://img.shields.io/badge/Topmate-Book_a_Call-%23ff5e5e?style=for-the-badge" /></a>&nbsp;
-  <a href="YOUR_UNSTOP_URL_HERE" target="_blank"><img alt="Unstop" src="https://img.shields.io/badge/Unstop-Mentorship-%230066FF?style=for-the-badge" /></a>
+  <a href="https://topmate.io/suyog_kumawat" target="_blank"><img alt="Topmate" src="https://img.shields.io/badge/Topmate-Book_a_Call-%23ff5e5e?style=for-the-badge" /></a>&nbsp;
+  <a href="https://unstop.com/mentor/Suyogk?ref=5J63mnx" target="_blank"><img alt="Unstop" src="https://img.shields.io/badge/Unstop-Mentorship-%230066FF?style=for-the-badge" /></a>
 </p>
 
 <br>
